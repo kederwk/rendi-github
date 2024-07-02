@@ -1,1 +1,1 @@
-# rendi-github
+# personal-github-R1
